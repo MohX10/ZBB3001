@@ -4,6 +4,7 @@ I made this code to make adding interrupts for pushbuttons easier
 Here is my github account link
 https://github.com/MohX10
 
+Disclamer: I am not responsible for anyone who uses this block of code for malicious purposes.
 """
 
 
