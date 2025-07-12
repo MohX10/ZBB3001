@@ -9,6 +9,7 @@ green = ZBPU3001(1)
 
 # Main Loop
 while True:
-  red.main("print('Sucessful Interrupt on Pin 0')")
-  green.main("print('Sucessful Interrupt on Pin 1')")
+  red.main("print('Hello')")
+  green.main("print('Goodbye')")
+  # These are just examples you can replace the command print() with anything you want
   sleep(0.01)
